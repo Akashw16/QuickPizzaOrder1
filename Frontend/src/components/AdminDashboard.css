@@ -1,0 +1,13 @@
+.dashboard-container {
+    background: #f9f9f9;
+    color: #333;
+  }
+  
+  .dashboard-header {
+    padding: 20px;
+    background: linear-gradient(45deg, #6a11cb, #2575fc);
+    color: white;
+    text-align: center;
+    font-size: 28px;
+  }
+  
